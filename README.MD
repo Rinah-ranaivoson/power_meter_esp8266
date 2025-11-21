@@ -1,9 +1,11 @@
-# 🔋 Smart Energy Dispenser  
+#  Smart Energy Dispenser  
 ### ESP8266 • PZEM-004T v3 • OLED Display • Web Interface
 
 A compact and efficient energy-management system designed around the ESP8266.  
 It measures electrical parameters, displays real-time information on an OLED screen, controls a relay based on available energy, and provides a full-featured web interface for monitoring and administration.
 
+![image_1](1.jpeg)
+![image_2](2.jpeg)
 ---
 
 ## Overview
