@@ -4,8 +4,8 @@
 A compact and efficient energy-management system designed around the ESP8266.  
 It measures electrical parameters, displays real-time information on an OLED screen, controls a relay based on available energy, and provides a full-featured web interface for monitoring and administration.
 
-![image_1](1.jpeg)
-![image_2](2.jpeg)
+<img src="1.jpeg" alt="OLED Display" width="200">
+<img src="2.jpeg" alt="OLED Display" width="200">
 ---
 
 ## Overview
