@@ -41,7 +41,7 @@ All data is displayed locally on an OLED and remotely via a WiFi access point ho
 - Relay logic: **LOW = ON**, **HIGH = OFF**
 
 ###  Integrated WiFi Access Point
-- SSID: `system mpd`  
+- SSID: `systemmpd`  
 - Password: `123456789`  
 - Accessible without external network
 
@@ -95,7 +95,6 @@ All data is displayed locally on an OLED and remotely via a WiFi access point ho
 ##  Author & Credits
 - Developed by **Tolojanahary**  
 - Co-developed with **Rina**  
-- Powered by open-source libraries (PZEM, SSD1306, ESP8266 core)
 
 ---
 
